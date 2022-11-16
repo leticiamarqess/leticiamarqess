@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @leticiamarqess
-- 👀 I’m interested in learn python and R
 
 
 <!---
