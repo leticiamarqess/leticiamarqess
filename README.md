@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @leticiamarqess
+## 💜 Olá, meu nome é Leticia!
 
+Sou economista de formação, com mestrado na área e, atualmente, estou focada em aprofundar meus conhecimentos em Data Science e Estatística.
 
-<!---
-leticiamarqess/leticiamarqess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamarqess&show_icons=true)
