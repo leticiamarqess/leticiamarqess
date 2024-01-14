@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Leticia!
+## Olá, meu nome é Leticia!
 
 Sou economista de formação, com mestrado na área e, atualmente, estou focada em aprofundar meus conhecimentos em Data Science e Estatística.
 
