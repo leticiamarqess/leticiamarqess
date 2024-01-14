@@ -6,4 +6,4 @@ Sou economista de formação, com mestrado na área e, atualmente, estou focada 
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamarqess&show_icons=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamarqess&show_icons=true)
